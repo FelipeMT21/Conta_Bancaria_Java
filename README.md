@@ -26,7 +26,7 @@ O programa possui uma classe Program que lê os dados da conta a partir da entra
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/FelipeMT21/exceptions1-java)
+- Solution URL: [Add solution URL here](https://github.com/FelipeMT21/Conta_Bancaria_Java)
 
 ## Meu processo
 
